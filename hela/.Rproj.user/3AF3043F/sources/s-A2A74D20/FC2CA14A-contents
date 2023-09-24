@@ -1,0 +1,12 @@
+Package: hela
+Type: Package
+Title: hela - Hierarchical Experiments and Likelihood Approximations
+Version: 0.1.0
+Author: Theodora Nearchou
+Maintainer: Theodora Nearchou <tn1u18@soton.ac.ukt>
+Description: Statistical methods to construct likelihood approximations for models with intractable likelihood when various approximation methods are available, each having different computational cost and accuracy to obtain statistically valid and efficient inferences. Bayesian optimisation for multi-level Gaussian processes using expected gain in utility. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: MASS, randtoolbox, mvtnorm, lhs, ggplot2, fastGHQuad, stats
+RoxygenNote: 7.2.3

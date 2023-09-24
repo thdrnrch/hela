@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1693218562185.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "9|51|18|0|\n25|38|29|0|\n36|39|41|0|\n68|106|91|0|\n94|45|100|0|\n112|77|123|0|\n137|46|143|0|\n176|64|195|0|\n247|41|264|0|\n275|69|291|0|\n604|88|645|0|\n664|53|687|0|\n738|89|765|0|\n1105|65|1157|0|\n",
+    "hash" : "0",
+    "id" : "D5D5DBD0",
+    "lastKnownWriteTime" : 1695570212,
+    "last_content_update" : 1695570345985,
+    "path" : "~/hela/R/hela functions.R",
+    "project_path" : "R/hela functions.R",
+    "properties" : {
+        "cursorPosition" : "410,59",
+        "scrollLine" : "398"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
